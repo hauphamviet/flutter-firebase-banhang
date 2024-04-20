@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "58175339864",
+    "project_id": "doan-b77c1",
+    "storage_bucket": "doan-b77c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58175339864:android:8902c7f757206a2ad5392d",
+        "android_client_info": {
+          "package_name": "com.example.doan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58175339864-brp2235cnluoevu4f35sai85jvl38lm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doan",
+            "certificate_hash": "ce34911c26519397a8dad46f909a19e4300bc8eb"
+          }
+        },
+        {
+          "client_id": "58175339864-6msh9e4amptvdsp67ll15kksmgvop5u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflRfrE7fTXsKAMn2d1lpxuQbBGe1dwro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58175339864-6msh9e4amptvdsp67ll15kksmgvop5u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "58175339864-ftas23qs9bv0i5t4d1fa7f3igln38j25.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doan.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
